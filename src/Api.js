@@ -3,7 +3,7 @@ import CryptoJS from "crypto-js";
 
 const CONSUMER_KEY = "your_wocom_consumer_key";
 const CONSUMER_SECRET = "your_wocom_consumer_secret"
-const PROJECT_URL = "https://teach.digitalwebtutor.xyz/"
+const PROJECT_URL = "https://asmtech.co.rw/"
 const API_URL = PROJECT_URL + "wp-json/wc/v3"
 const WP_USER_API_URL = `${PROJECT_URL}wp-json/wp/v2/users`
 

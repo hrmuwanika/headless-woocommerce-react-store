@@ -86,7 +86,7 @@ export const registerStoreUser = async(userInfo) => {
 
     return response.data
   } catch(error){
-    console.log(error)
+    console.log(error.response.data)
   }
 }
 
